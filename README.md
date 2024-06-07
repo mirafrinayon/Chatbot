@@ -1,5 +1,6 @@
 #### COMP8420 - Advanced Natural Language Processing
 #### Session 1, 2024
+### Main Project
 ---
 
 ## Revolutionizing IT Support with an AI- Powered Chatbot
